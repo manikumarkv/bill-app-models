@@ -13,10 +13,15 @@ Usage
 ## Table of Contents
 
     * [Installation and setup](#installation)
+
         - [Using npm](#installation)
+
         - [SetUp in TS](#setup)
+
     * [Usage](#usage)
+
         + [IsNullOrEmpty](#IsNullOrEmpty)
+        
 
 
 ## Installation
