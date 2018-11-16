@@ -1,5 +1,7 @@
 # data-validator-js
+
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Downloads][downloads-image]][npm-url]
+
 Javascript validations and utility library
 
 Install
